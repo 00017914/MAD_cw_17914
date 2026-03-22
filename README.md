@@ -65,7 +65,6 @@ The application is fully compliant with the `wiutmadcw.uz` API v1 requirements:
 ---
 
 ### 👨‍💻 Author Information
-* **Name:** [Your Name Here]
 * **Student ID:** 00017914
 * **Module:** Mobile Application Development (W1791)
 * **University:** WIUT
