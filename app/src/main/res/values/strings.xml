@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Cat Inventory Pro</string>
+
+    <string name="title_cat_list">Cat Shelter Inventory</string>
+    <string name="title_add_cat">Register New Cat</string>
+
+    <string name="label_name">Cat Name</string>
+    <string name="label_breed">Breed</string>
+    <string name="label_age">Age (Years)</string>
+    <string name="label_gender">Gender</string>
+    <string name="label_vaccinated">Is Vaccinated?</string>
+    <string name="label_description">Description</string>
+    <string name="label_stock">Current Stock</string>
+
+    <string name="btn_save">Save Cat to Inventory</string>
+    <string name="btn_add">Add New</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <string name="msg_confirm_delete">Are you sure you want to remove this cat?</string>
+    <string name="msg_delete_warning">This action will permanently delete the record from the database.</string>
+    <string name="msg_save_success">Cat added successfully!</string>
+    <string name="error_invalid_input">Please check your inputs. Name and Breed are required, and Age must be 0–25.</string>
+    <string name="error_network">Network error: Unable to connect to server.</string>
+</resources>
